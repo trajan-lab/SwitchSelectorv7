@@ -240,7 +240,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="flex items-center">
             <Network className="h-8 w-8 text-blue-600 mr-3" />
-            <h1 className="text-3xl font-bold text-gray-900">Arista Campus Switch Selector</h1>
+            <h1 className="text-3xl font-bold text-gray-900">Campus Switch Selector</h1>
           </div>
         </div>
       </header>
